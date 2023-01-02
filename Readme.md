@@ -8,7 +8,7 @@ Incomes GoGallery just point it at your photos and it will generate a static sit
 
 The Software also has a dashboard that you can use to manage the photos e.g change captions add albums to be hidden etc. You can also preview the site using the serve command 
 
-
+  
 ## Usage
 
 ```
